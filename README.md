@@ -4,4 +4,4 @@ Introduction to GitHub
 
 Hello, 
 
-My name is David. Like shralp?
+My name is David. I like the outddors...and coding!
